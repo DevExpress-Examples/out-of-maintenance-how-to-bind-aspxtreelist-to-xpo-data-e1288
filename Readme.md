@@ -1,7 +1,3 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1288)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -11,9 +7,6 @@
 * [TreeObject.cs](./CS/TreeObject.cs) (VB: [TreeObject.vb](./VB/TreeObject.vb))
 <!-- default file list end -->
 # How to bind ASPxTreeList to XPO data
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1288/)**
-<!-- run online end -->
 
 
 <p><strong>See Also:</strong><br />
